@@ -1,4 +1,4 @@
 Pinotage
 ========
 
-HTML5 Game framework
+Game framework, to provide development using Javascript, HTML5 canvas.
